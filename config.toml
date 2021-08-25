@@ -22,19 +22,20 @@ theme = "hugo-theme-shell"
   # ...
   # Note: result of the tree command
   userName = "tobraha"
-  pcName = "master-sword"
+  pcName = "tilde.team"
   workDir = "my_stuff"
   profile = "profile"
 
   # Note: speed at which text is displayed on the terminal
-  terminalDelay = 10
+  terminalDelay = 5
 
   # Note: speed at which text is displayed on the activity pages
   activityDelay = 5
 
   description = """
   Hi! I'm Tommy.
-  I live in Albuquerque, New Mexico and I like computer stuff.
+  I live in Albuquerque, New Mexico and I like
+  computers and stuff.
 
   """
   [Params.Tree]
@@ -43,5 +44,6 @@ theme = "hugo-theme-shell"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Github", "https://github.com/tobraha/"],
-    ["Twitter", "https://twitter.com/tobraha"]
+    ["Twitter", "https://twitter.com/tobraha"],
+    ["Alaska Photos", "https://tobraha.tilde.team/alaska/"]
   ]
